@@ -1,0 +1,17 @@
+.date-range-picker {
+    font-family: Arial, sans-serif;
+  }
+  
+  .date-inputs {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+  }
+  
+  .date-inputs label {
+    margin-bottom: 5px;
+  }
+  
+  .buttons button {
+    margin-right: 10px;
+  }
